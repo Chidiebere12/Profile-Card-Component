@@ -24,7 +24,6 @@ main {
 }
 
 #bg-pattern-top {
-    display: block;
     position: absolute;
     z-index: -1;
     bottom: 50vh;
@@ -32,7 +31,6 @@ main {
 }
 
 #bg-pattern-bottom {
-    display: block;
     position: absolute;
     z-index: -1;
     top: 50vh;
